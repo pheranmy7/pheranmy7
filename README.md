@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pheranmy7
+- 👋 Hi, I’m @pheranmy
 - 👀 I’m interested in learning 
 - 🌱 I’m currently learning backend development
 - 💞️ I’m looking to collaborate on github
