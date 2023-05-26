@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pheranmy
 - 👀 I’m interested in learning 
-- 🌱 I’m currently learning backend development
+- 🌱 I’m currently learning flutter development
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me pheranmyolabiyi@gmail.com...07056200904
 
